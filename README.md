@@ -6,5 +6,5 @@ this program does is that we can draw a wall between the beginning node and the 
 the algorithm escape that wall and find the shortest way to reach the end node.
 
 # tools used
-Pycharm IDE
+Pycharm IDE; 
 Pygame module
